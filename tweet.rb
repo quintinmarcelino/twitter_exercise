@@ -11,4 +11,7 @@ class Tweet
 	def all
 		#This prints all user tweets
 	end
+
+	def tweet
+		
 end
